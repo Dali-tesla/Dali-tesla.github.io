@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.saypyo.summonanchor",
+    "sha256_cert_fingerprints": [
+      "DA:F7:3C:49:00:C1:6E:B6:9A:CF:13:30:28:06:60:B4:ED:31:06:E2:CA:FB:D2:C6:81:14:72:A2:93:5E:A9:46"
+    ]
+  }
+}]
